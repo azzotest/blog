@@ -1,37 +1,26 @@
-## Welcome to Azzo Pages
+## New Boy
 
-You can use the [editor on GitHub](https://github.com/azzotest/azzo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azzotest/azzo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+是的我看见到处是阳光
+快乐在城市上空飘扬
+新世界来得像梦一样
+让我暖洋洋
+你的老怀表还在转吗
+你的旧皮鞋还能穿吗
+这儿有一支未来牌香烟
+你不想尝尝吗
+明天一早
+我猜阳光会好
+我要把自己打扫
+把破旧的全部卖掉
+哦这样多好
+快来吧奔腾电脑
+就让它们代替我来思考
+穿新衣吧剪新发型呀
+轻松一下WINDOWS98
+打扮漂亮
+18岁是天堂
+我们的生活甜得像糖
+穿新衣吧剪新发型呀
+轻松一下WINDOWS98
+以后的路不再会有痛苦
+我们的未来该有多酷
