@@ -1,4 +1,4 @@
-## New Boy
+<center>## New Boy</center>
 
 <center>是的我看见到处是阳光</center>
 
